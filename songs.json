@@ -271,5 +271,12 @@
     "artist": ".",
     "genre": "기타",
     "vod": "https://vod.sooplive.com/player/193325869"
+  },
+  {
+    "id": "vod-192900625",
+    "title": "밤이 되니까",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/192900625"
   }
 ]
