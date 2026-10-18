@@ -12,5 +12,12 @@
     "artist": "Warak",
     "genre": "기타",
     "vod": "https://vod.sooplive.com/player/205546755"
+  },
+  {
+    "id": "vod-205546859",
+    "title": "Finale",
+    "artist": "eill",
+    "genre": "J-POP",
+    "vod": "https://vod.sooplive.com/player/205546859"
   }
 ]
