@@ -425,5 +425,12 @@
     "artist": "imase",
     "genre": "J-POP",
     "vod": "https://vod.sooplive.com/player/194148007"
+  },
+  {
+    "id": "vod-194743365",
+    "title": "주저하는 연인들을 위해",
+    "artist": "잔나비",
+    "genre": "발라드",
+    "vod": "https://vod.sooplive.com/player/194743365"
   }
 ]
