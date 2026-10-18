@@ -278,5 +278,19 @@
     "artist": ".",
     "genre": "기타",
     "vod": "https://vod.sooplive.com/player/192900625"
+  },
+  {
+    "id": "vod-192898497",
+    "title": "금요일에 만나요",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/192898497"
+  },
+  {
+    "id": "vod-192897695",
+    "title": "나의 사춘기에게",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/192897695"
   }
 ]
