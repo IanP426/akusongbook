@@ -89,5 +89,19 @@
     "artist": ".",
     "genre": "기타",
     "vod": "https://vod.sooplive.com/player/206825329"
+  },
+  {
+    "id": "vod-206826113",
+    "title": "스물셋",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/206826113"
+  },
+  {
+    "id": "vod-208443991",
+    "title": "널너무모르고",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/208443991"
   }
 ]
