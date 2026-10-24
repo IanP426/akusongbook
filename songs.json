@@ -425,5 +425,19 @@
     "artist": "잔나비",
     "genre": "발라드",
     "vod": "https://vod.sooplive.com/player/194743365"
+  },
+  {
+    "id": "vod-210694799",
+    "title": "너사용법",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/210694799"
+  },
+  {
+    "id": "vod-210694801",
+    "title": "애상",
+    "artist": "10cm",
+    "genre": "발라드",
+    "vod": "https://vod.sooplive.com/player/210694801"
   }
 ]
